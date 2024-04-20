@@ -1,2 +1,4 @@
 # ExpandableView
-Expandable view. Adopted from a different repo and modified
+Expandable view. Adopted from https://github.com/Tomortec/SimpleExpandableView
+
+
